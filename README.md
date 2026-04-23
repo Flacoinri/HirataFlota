@@ -57,7 +57,8 @@ Próximas mejoras planificadas para el ciclo 2026:
 
 ## 👥 Equipo de Desarrollo
 * **Italo Sabattini** - *Ingeniería y Desarrollo Core*
-* **Hans Parra** - *Análisis de Requerimientos y Documentación*
+* **Roberto Fuentes** - *Análisis de Requerimientos y Documentación*
+* **Sebastian Cornejo** - *Análisis de Requerimientos y Documentación*
 
 ---
 > **Nota:** Este proyecto ha sido desarrollado como parte del hito de integración para la asignatura **IEI-091 (Integración de Competencias I)**.
